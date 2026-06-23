@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Instinctsmp-beta.aternos.me",
+    "ip": "darterfish.aternos.host:16616",
     "port": 16616,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
